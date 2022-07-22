@@ -1,0 +1,4 @@
+github.com/kisielk/og-rek v1.2.0 h1:CTvDIin+YnetsSQAYbe+QNAxXU3B50C5hseEz8xEoJw=
+github.com/kisielk/og-rek v1.2.0/go.mod h1:6ihsOSzSAxR/65S3Bn9zNihoEqRquhDQZ2c6I2+MG3c=
+github.com/mattn/go-sqlite3 v1.14.14 h1:qZgc/Rwetq+MtyE18WhzjokPD93dNqLGNT3QJuLvBGw=
+github.com/mattn/go-sqlite3 v1.14.14/go.mod h1:NyWgC/yNuGj7Q9rpYnZvas74GogHl5/Z4A/KQRfk6bU=
